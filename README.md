@@ -59,3 +59,18 @@ docker compose up
 
 ### Añadir Time Entry en Clockify:
 <img src="screenshots/AddTimeEntryClockify.png">
+
+## Contacto
+
+Si tienes alguna pregunta, sugerencia o simplemente deseas ponerte en contacto, no dudes en hacerlo a través de los siguientes medios:
+
+- Correo electrónico: <a href="mailto:fvfotura@gmailcom">fvfotura@gmail.com</a>
+
+## Repositorios de GitHub asociados al proyecto
+
+- <a href="https://github.com/Frorve/Front">Frontend con React</a>
+
+- <a href="https://github.com/Frorve/Back">Backend con NestJS</a>
+
+- <a href="https://github.com/Frorve/Back-Directus">Backend con Directus</a>
+
