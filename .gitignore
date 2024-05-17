@@ -1,0 +1,6 @@
+# Ignorar archivos de configuración sensibles
+.env
+
+# Ignorar archivos de respaldo y caché
+*.bak
+*.cache
