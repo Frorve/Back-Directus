@@ -28,37 +28,60 @@ docker compose up
 ## Screenshots
 
 ### Register:
+
 <img src="screenshots/Register.png">
 
 ### Login:
+
 <img src="screenshots/Login.png">
 
 ### Reset Password:
+
 <img src="screenshots/Recuperar password.png">
 
 ### Main Page:
+
 <img src="screenshots/Main.png">
 
 ### Form Nuevo Proyecto:
+
 <img src="screenshots/Form nuevo proyecto.png">
 
 ### Form Editar Proyecto:
+
 <img src="screenshots/Form editar proyecto.png">
 
 ### Detalles del Proyecto:
+
 <img src="screenshots/Detalles.png">
 
 ### Form Nuevo Cliente:
+
 <img src="screenshots/Form nuevo cliente.png">
 
 ### Añadir Colaboradores:
+
 <img src="screenshots/AddColab.png">
 
 ### Añadir Clientes:
+
 <img src="screenshots/AddCliente.png">
 
 ### Añadir Time Entry en Clockify:
+
 <img src="screenshots/AddTimeEntryClockify.png">
+
+### Lista de Clientes:
+
+<img src="screenshots/ListaClientes.png">
+
+### Información del Cliente:
+
+<img src="screenshots/InfoDetalladaCliente.png">
+
+### Editar Cliente:
+
+<img src="screenshots/EditarCliente.png">
 
 ## Contacto
 
