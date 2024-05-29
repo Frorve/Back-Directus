@@ -1,0 +1,8 @@
+docker run \
+-p 8055:8055 \
+-e KEY=stafko \
+-e SECRET=beebit \
+directus/directus
+
+admin@example.com
+OhD5qRg5ugMS
